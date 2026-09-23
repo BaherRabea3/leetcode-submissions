@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/BaherRabea3/leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/BaherRabea3/leetcode-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0239-sliding-window-maximum](https://github.com/BaherRabea3/leetcode-submissions/tree/master/0239-sliding-window-maximum) |
+| [0636-exclusive-time-of-functions](https://github.com/BaherRabea3/leetcode-submissions/tree/master/0636-exclusive-time-of-functions) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -55,4 +56,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/BaherRabea3/leetcode-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0636-exclusive-time-of-functions](https://github.com/BaherRabea3/leetcode-submissions/tree/master/0636-exclusive-time-of-functions) |
 <!---LeetCode Topics End-->
