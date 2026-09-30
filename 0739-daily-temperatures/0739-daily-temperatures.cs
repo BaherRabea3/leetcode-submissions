@@ -14,10 +14,6 @@
              }
              temps.Push(temp);
          }
-         while (temps.Count > 0)
-         {
-             answers[temps.Pop()] = 0;
-         }
          return answers;
      }
  }
